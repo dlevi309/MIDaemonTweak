@@ -1,0 +1,9 @@
+Package: daniel.skidd
+Name: skidd
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Allow iPad app installation, disable code sign enforcement, skip thinning check
+Maintainer: daniel
+Author: daniel
+Section: Tweaks
