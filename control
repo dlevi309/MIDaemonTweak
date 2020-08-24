@@ -1,5 +1,5 @@
-Package: daniel.skidd
-Name: skidd
+Package: daniel.midaemontweak
+Name: MIDaemonTweak
 Depends: mobilesubstrate
 Version: 1.0.0
 Architecture: iphoneos-arm

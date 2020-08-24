@@ -4,9 +4,9 @@ ARCHS = armv7 arm64 arm64e
 
 include $(THEOS)/makefiles/common.mk
 
-TWEAK_NAME = skidd
-skidd_FILES = Tweak.xm
-skidd_FRAMEWORKS = CoreFoundation
+TWEAK_NAME = MIDaemonTweak
+MIDaemonTweak_FILES = Tweak.xm
+MIDaemonTweak_FRAMEWORKS = CoreFoundation
 
 include $(THEOS_MAKE_PATH)/tweak.mk
 
