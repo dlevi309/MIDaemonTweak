@@ -1,3 +1,7 @@
+# Use [skipDeviceFamilyCheck](https://github.com/dlevi309/skipDeviceFamilyCheck) instead
+This code is unnecessarily doing a lot, skipDeviceFamilyCheck is cleaner.
+
+
 # MIDaemonTweak (MIDaemonConfiguration)
 Allows the installation of iPad-only apps on the iPhone (requires that you sync or airdrop the applications from your computer with a tool like iMazing, Apple Configurator, etc)
 
